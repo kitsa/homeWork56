@@ -2,7 +2,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.springframework</groupId>
-	<artifactId>spring-map</artifactId>
+	<artifactId>homeWork5</artifactId>
 	<version>1</version>
 	<packaging>jar</packaging>
 
